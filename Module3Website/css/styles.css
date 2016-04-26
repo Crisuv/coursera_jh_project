@@ -4,22 +4,27 @@
 
 body {
   font-size: 16px;
-  color: #000000;
-  background-color: #FAFAFA;
+  color: #15768b;
+  background-color: #ffffff;
   font-family: 'Oxygen', sans-serif;
   }
 
 /**header**/
 #header-nav{
-  background-color: #8B7B8B;
+  background-color: #d1e6ea;
   border-radius: 0:
   border:0;
   }
 
 .navbar-brand {
+  
+  font-weight: bold;
   color: #000000;
-  font-weight: bold; 
   }
+
+a.navbar-brand.brand {
+color: #15768b;
+}
 
 .menu-page {
   font-weight: bold; 
@@ -31,7 +36,7 @@ body {
   }
 
 .first-menu-item, .second-menu-item, .third-menu-item{
-  color: #000000;
+  color: #15768b;
   }
 
 li, a{
@@ -39,11 +44,11 @@ li, a{
   }
 
 p{
-  color: black;
+  color: #15768b;
   }
 
 p.title{
-  background-color: #8B7B8B;  
+  background-color: #ffffff;
   margin:0;
   text-align: center;
 }
@@ -64,7 +69,7 @@ p.title{
 
 
 .text{
-  background-color: #8B7B8B;  
+  background-color: #d1e6ea;
   }
 
 #Chicken, #Beef, #Sushi {
